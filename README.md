@@ -8,5 +8,5 @@ Chinese characters font tools
 - requests
 
 使用方法
-'python fonttool.py'
+'python fontool.py'
 
